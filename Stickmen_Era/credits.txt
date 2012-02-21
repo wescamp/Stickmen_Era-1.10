@@ -1,0 +1,4 @@
+Thanks to Aleph and Mich for the help with WML and the others of the Wesnoth Italian Forum for the suggestions!
+
+version 1.5
+Eleazar for some attack icons taken from the "painterly spell icons" (sorry if I write it only now).
