@@ -1,0 +1,888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-02-22 15:29+0100\n"
+"PO-Revision-Date: 2012-02-22 15:29+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ga\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+
+#. [hides]: id=m_ambush
+#: Stickmen_Era/abilities.cfg:9 Stickmen_Era/abilities.cfg:11
+msgid "mountain ambush"
+msgstr ""
+
+#. [hides]: id=m_ambush
+#: Stickmen_Era/abilities.cfg:10 Stickmen_Era/abilities.cfg:12
+msgid "female^mountain ambush"
+msgstr ""
+
+#. [hides]: id=m_ambush
+#: Stickmen_Era/abilities.cfg:16 Stickmen_Era/abilities.cfg:20
+msgid ""
+"Mountain ambush:\n"
+"This unit can hide in hills and mountains, and remain undetected by its "
+"enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in hills and mountains, except "
+"if they have units next to it. Any enemy unit that first discovers this unit "
+"immediately loses all its remaining movement."
+msgstr ""
+
+#. [damage]: id=defend_only
+#: Stickmen_Era/abilities.cfg:34
+msgid "defend only"
+msgstr ""
+
+#. [damage]: id=defend_only
+#: Stickmen_Era/abilities.cfg:36
+msgid ""
+"Defend only:\n"
+"This weapon will only be available for defense."
+msgstr ""
+
+#: Stickmen_Era/abilities.cfg:42 Stickmen_Era/abilities.cfg:56
+msgid " One attack of this unit can only be used to defend."
+msgstr ""
+
+#. [damage]: id=attack_only
+#: Stickmen_Era/abilities.cfg:48
+msgid "attack only"
+msgstr ""
+
+#. [damage]: id=attack_only
+#: Stickmen_Era/abilities.cfg:50
+msgid ""
+"Attack only:\n"
+"This weapon will only be available for attack."
+msgstr ""
+
+#. [hides]: id=water_affinity
+#: Stickmen_Era/abilities.cfg:65 Stickmen_Era/abilities.cfg:71
+msgid "water affinity"
+msgstr ""
+
+#. [hides]: id=water_affinity
+#: Stickmen_Era/abilities.cfg:66 Stickmen_Era/abilities.cfg:72
+msgid "female^water affinity"
+msgstr ""
+
+#. [hides]: id=water_affinity
+#: Stickmen_Era/abilities.cfg:70 Stickmen_Era/abilities.cfg:76
+msgid ""
+"Water affinity:\n"
+"This unit can hide in water, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in water, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+
+#. [dummy]: id=eclipse
+#. [set_menu_item]: id=eclipse_menu
+#: Stickmen_Era/abilities.cfg:90 Stickmen_Era/abilities.cfg:92
+#: Stickmen_Era/abilities.cfg:106
+msgid "eclipse"
+msgstr ""
+
+#. [dummy]: id=eclipse
+#: Stickmen_Era/abilities.cfg:91 Stickmen_Era/abilities.cfg:93
+msgid "female^eclipse"
+msgstr ""
+
+#. [dummy]: id=eclipse
+#: Stickmen_Era/abilities.cfg:94
+msgid "............"
+msgstr ""
+
+#. [print]
+#: Stickmen_Era/abilities.cfg:134
+msgid "Eclipse"
+msgstr ""
+
+#. [multiplayer_side]: id=STICKMEN-evil, type=STICKMEN_spietato
+#: Stickmen_Era/factions/evil-STICKMEN.cfg:5
+msgid "Evil"
+msgstr ""
+
+#. [multiplayer_side]: id=STICKMEN-evil_heroes, type=STICKMEN_sadico
+#: Stickmen_Era/factions/evil_heroes-STICKMEN.cfg:5
+msgid "Evil Heroes"
+msgstr ""
+
+#. [multiplayer_side]: id=STICKMEN-good, type=STICKMEN_guerriero
+#: Stickmen_Era/factions/good-STICKMEN.cfg:5
+msgid "Good"
+msgstr ""
+
+#. [multiplayer_side]: id=STICKMEN-good_heroes, type=STICKMEN_veterano
+#: Stickmen_Era/factions/good_heroes-STICKMEN.cfg:5
+msgid "Good Heroes"
+msgstr ""
+
+#. [race]: id=STICKMEN_stickman
+#. [race]: id=STICKMEN_a_stickman
+#. [race]: id=STICKMEN_stickman2
+#: Stickmen_Era/units/stickmen.cfg:7 Stickmen_Era/units/stickmen.cfg:16
+#: Stickmen_Era/units/stickmen.cfg:26
+msgid "race^Stickman"
+msgstr ""
+
+#. [race]: id=STICKMEN_stickman
+#. [race]: id=STICKMEN_a_stickman
+#. [race]: id=STICKMEN_stickman2
+#: Stickmen_Era/units/stickmen.cfg:8 Stickmen_Era/units/stickmen.cfg:17
+#: Stickmen_Era/units/stickmen.cfg:27
+msgid "race+female^Stickman"
+msgstr ""
+
+#. [race]: id=STICKMEN_stickman
+#. [race]: id=STICKMEN_a_stickman
+#. [race]: id=STICKMEN_stickman2
+#: Stickmen_Era/units/stickmen.cfg:9 Stickmen_Era/units/stickmen.cfg:18
+#: Stickmen_Era/units/stickmen.cfg:28
+msgid "race^Stickmen"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_elementale, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/apprendista_elementale.cfg:5
+msgid "Elemental apprentice"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_cacciatore, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_stregone_terra, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_karate_kid, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_padrone_ombre, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_adolescente_c, race=STICKMEN_stickman2
+#. [unit_type]: id=STICKMEN_sentinella, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_guardiano, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_illuminato, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_freccia_rossa, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_luminoso, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_stregone_ghiaccio, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_messaggero, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_spietato, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_emissario, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_seguace_ombre, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_hermes, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_distruttore, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_stregone_aria, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_sadico, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_servo_ombre, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_spirito_aria, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_spezza_luce, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_bruto, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_oracolo, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_sensei, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_fulmine, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_selvaggio, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_arc_allenato, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_guardiano_elite, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_elementale, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_mago_terra, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_spirito_fuoco, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_corridore, race=STICKMEN_stickman
+#. [unit_type]: id=STICKMEN_arciere, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_adolescente_b, race=STICKMEN_stickman2
+#. [unit_type]: id=STICKMEN_karateka, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_lucente, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_occhio_falco, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_darkness_herald, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_stregone_fuoco, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/cacciatore.cfg:26
+#: Stickmen_Era/units/stickmen/stregone_terra.cfg:28
+#: Stickmen_Era/units/stickmen/karate_kid.cfg:27
+#: Stickmen_Era/units/stickmen/padrone_ombre.cfg:29
+#: Stickmen_Era/units/stickmen/teenager_c.cfg:26
+#: Stickmen_Era/units/stickmen/sentinella.cfg:26
+#: Stickmen_Era/units/stickmen/guardiano.cfg:28
+#: Stickmen_Era/units/stickmen/illuminato.cfg:29
+#: Stickmen_Era/units/stickmen/freccia_rossa.cfg:26
+#: Stickmen_Era/units/stickmen/luminoso.cfg:27
+#: Stickmen_Era/units/stickmen/stregone_ghiaccio.cfg:29
+#: Stickmen_Era/units/stickmen/messaggero.cfg:30
+#: Stickmen_Era/units/stickmen/spietato.cfg:28
+#: Stickmen_Era/units/stickmen/emissario.cfg:30
+#: Stickmen_Era/units/stickmen/seguace_ombre.cfg:27
+#: Stickmen_Era/units/stickmen/hermes.cfg:30
+#: Stickmen_Era/units/stickmen/distruttore.cfg:22
+#: Stickmen_Era/units/stickmen/stregone_aria.cfg:29
+#: Stickmen_Era/units/stickmen/sadico.cfg:29
+#: Stickmen_Era/units/stickmen/servo_ombre.cfg:27
+#: Stickmen_Era/units/stickmen/spirito_aria.cfg:30
+#: Stickmen_Era/units/stickmen/spezza_luce.cfg:27
+#: Stickmen_Era/units/stickmen/bruto.cfg:26
+#: Stickmen_Era/units/stickmen/oracolo.cfg:31
+#: Stickmen_Era/units/stickmen/sensei.cfg:28
+#: Stickmen_Era/units/stickmen/fulmine.cfg:29
+#: Stickmen_Era/units/stickmen/selvaggio.cfg:21
+#: Stickmen_Era/units/stickmen/arciere_allenato.cfg:26
+#: Stickmen_Era/units/stickmen/guardiano_elite.cfg:30
+#: Stickmen_Era/units/stickmen/apprendista_elementale.cfg:27
+#: Stickmen_Era/units/stickmen/mago_terra.cfg:27
+#: Stickmen_Era/units/stickmen/spirito_fuoco.cfg:30
+#: Stickmen_Era/units/stickmen/corridore.cfg:29
+#: Stickmen_Era/units/stickmen/arciere.cfg:26
+#: Stickmen_Era/units/stickmen/teenager_b.cfg:26
+#: Stickmen_Era/units/stickmen/karateka.cfg:27
+#: Stickmen_Era/units/stickmen/lucente.cfg:27
+#: Stickmen_Era/units/stickmen/occhio_falco.cfg:27
+#: Stickmen_Era/units/stickmen/darkness_herald.cfg:29
+#: Stickmen_Era/units/stickmen/stregone_fuoco.cfg:29
+msgid "[DESCRIPTION]"
+msgstr ""
+
+#. [attack]: type=impact
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/teenager_c.cfg:30
+#: Stickmen_Era/units/stickmen/messaggero.cfg:33
+#: Stickmen_Era/units/stickmen/emissario.cfg:33
+#: Stickmen_Era/units/stickmen/hermes.cfg:33
+#: Stickmen_Era/units/stickmen/spirito_aria.cfg:37
+#: Stickmen_Era/units/stickmen/bruto.cfg:30
+#: Stickmen_Era/units/stickmen/oracolo.cfg:34
+#: Stickmen_Era/units/stickmen/fulmine.cfg:32
+#: Stickmen_Era/units/stickmen/apprendista_elementale.cfg:64
+#: Stickmen_Era/units/stickmen/corridore.cfg:35
+#: Stickmen_Era/units/stickmen/arciere.cfg:30
+#: Stickmen_Era/units/stickmen/teenager_b.cfg:30
+msgid "fist"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/apprendista_elementale.cfg:73
+msgid "ball of light"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_arciere, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/arciere.cfg:5
+msgid "Archer"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Stickmen_Era/units/stickmen/cacciatore.cfg:39
+#: Stickmen_Era/units/stickmen/freccia_rossa.cfg:39
+#: Stickmen_Era/units/stickmen/spezza_luce.cfg:40
+#: Stickmen_Era/units/stickmen/arciere_allenato.cfg:39
+#: Stickmen_Era/units/stickmen/arciere.cfg:39
+#: Stickmen_Era/units/stickmen/occhio_falco.cfg:40
+msgid "bow"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/arciere_allenato.cfg:48
+#: Stickmen_Era/units/stickmen/arciere.cfg:48
+#: Stickmen_Era/units/stickmen/occhio_falco.cfg:49
+msgid "white arrow"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_arc_allenato, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/arciere_allenato.cfg:5
+msgid "Trained archer"
+msgstr ""
+
+#. [attack]: type=pierce
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/bruto.cfg:39
+#: Stickmen_Era/units/stickmen/arciere_allenato.cfg:30
+#: Stickmen_Era/units/stickmen/occhio_falco.cfg:31
+msgid "dagger"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_bruto, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/bruto.cfg:5
+msgid "Brute"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_cacciatore, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/cacciatore.cfg:5
+msgid "Hunter"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/cacciatore.cfg:30
+msgid "hit of quiver"
+msgstr ""
+
+#. [attack]: type=fire
+#: Stickmen_Era/units/stickmen/cacciatore.cfg:48
+#: Stickmen_Era/units/stickmen/freccia_rossa.cfg:48
+#: Stickmen_Era/units/stickmen/spezza_luce.cfg:49
+msgid "fire arrow"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_combattente, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/combattente.cfg:5
+msgid "Fighter"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_combattente, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/combattente.cfg:26
+msgid ""
+"A fighter, although he hasn't particular connections with nature, he's a "
+"promise in the use of the word. Those who fail to feel the elements are "
+"called by their people "
+msgstr ""
+
+#. [attack]: type=blade
+#. [attack]: type=fire
+#: Stickmen_Era/units/stickmen/guerriero.cfg:34
+#: Stickmen_Era/units/stickmen/spirito_fuoco.cfg:43
+#: Stickmen_Era/units/stickmen/combattente.cfg:30
+#: Stickmen_Era/units/stickmen/veterano.cfg:34
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_corridore, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/corridore.cfg:5
+msgid "Runner"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/hermes.cfg:42
+#: Stickmen_Era/units/stickmen/fulmine.cfg:41
+#: Stickmen_Era/units/stickmen/corridore.cfg:44
+msgid "charged hit"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_darkness_herald, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/darkness_herald.cfg:5
+msgid "Darkness' herald"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/darkness_herald.cfg:37
+msgid "hand"
+msgstr ""
+
+#. [attack]: type=darkness
+#: Stickmen_Era/units/stickmen/darkness_herald.cfg:49
+msgid "darkness"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_distruttore, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/distruttore.cfg:5
+msgid "Destroyer"
+msgstr ""
+
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/distruttore.cfg:26
+#: Stickmen_Era/units/stickmen/selvaggio.cfg:25
+msgid "axe"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Stickmen_Era/units/stickmen/distruttore.cfg:35
+#: Stickmen_Era/units/stickmen/selvaggio.cfg:34
+msgid "blow-pipe"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_emissario, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/emissario.cfg:5
+msgid "Emissary"
+msgstr ""
+
+#. [attack]: type=non elemental
+#: Stickmen_Era/units/stickmen/messaggero.cfg:42
+#: Stickmen_Era/units/stickmen/emissario.cfg:42
+#: Stickmen_Era/units/stickmen/oracolo.cfg:43
+msgid "release"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_freccia_rossa, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/freccia_rossa.cfg:5
+msgid "Red arrow"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/freccia_rossa.cfg:30
+msgid "bow hit"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_fulmine, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/fulmine.cfg:5
+msgid "Lightning"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_guardiano, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/guardiano.cfg:5
+msgid "Guardian"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Stickmen_Era/units/stickmen/sentinella.cfg:33
+#: Stickmen_Era/units/stickmen/guardiano.cfg:35
+#: Stickmen_Era/units/stickmen/stregone_ghiaccio.cfg:58
+#: Stickmen_Era/units/stickmen/mago_ghiaccio.cfg:175
+#: Stickmen_Era/units/stickmen/guardiano_elite.cfg:37
+msgid "spear"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/sentinella.cfg:42
+#: Stickmen_Era/units/stickmen/guardiano.cfg:44
+#: Stickmen_Era/units/stickmen/spietato.cfg:41
+#: Stickmen_Era/units/stickmen/sadico.cfg:42
+#: Stickmen_Era/units/stickmen/guardiano_elite.cfg:46
+msgid "shield"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_guardiano_elite, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/guardiano_elite.cfg:5
+msgid "Elite guardian"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_guerriero, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/guerriero.cfg:5
+msgid "Warrior"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_guerriero, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/guerriero.cfg:26
+msgid ""
+"The plariak possessing significant force is automatically invested with the "
+"charge of small leader with the potential to become the leader of many more "
+"areiks that are territories divided throughout the island."
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_hermes, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/hermes.cfg:5
+msgid "Hermes"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_illuminato, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/illuminato.cfg:5
+msgid "Illuminated"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/illuminato.cfg:37
+#: Stickmen_Era/units/stickmen/lucente.cfg:34
+msgid "mace of justice"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Stickmen_Era/units/stickmen/illuminato.cfg:46
+#: Stickmen_Era/units/stickmen/lucente.cfg:43
+msgid "knight's soul"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/illuminato.cfg:58
+msgid "summon archangel"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_immortale, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/immortale.cfg:5
+msgid "Immortal"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_immortale, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/immortale.cfg:27
+msgid ""
+"When a stickman reaches the peak of power and has great skills in fighting "
+"with the sword, is called immortal from his fellows, thanks to the fact that "
+"with the mighty armor and enemies fallen in battle under his blows and "
+"leaving from battle often without a scratch, make the idea to be "
+"invulnerable. Usually who reach this rank is recognized as the great leader, "
+"the king of the island."
+msgstr ""
+
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/immortale.cfg:35
+msgid "great sword"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/immortale.cfg:44
+msgid "bolas"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_karate_kid, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/karate_kid.cfg:5
+msgid "Karate kid"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/karate_kid.cfg:32
+#: Stickmen_Era/units/stickmen/sensei.cfg:32
+#: Stickmen_Era/units/stickmen/karateka.cfg:58
+msgid "hits"
+msgstr ""
+
+#. [attack]: type=non elemental
+#: Stickmen_Era/units/stickmen/karate_kid.cfg:41
+msgid "globe"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_karateka, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/karateka.cfg:5
+msgid "Karateka"
+msgstr ""
+
+#. [attack]: type=non elemental
+#: Stickmen_Era/units/stickmen/sensei.cfg:41
+#: Stickmen_Era/units/stickmen/karateka.cfg:67
+msgid "giant globe"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_lame_danzanti, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/lame_danzanti.cfg:5
+msgid "Dancing blades"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_lame_danzanti, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/lame_danzanti.cfg:27
+msgid ""
+"When the fighter starts to feel the call of nature, and its power flowing in "
+"his veins, he earns an agility beyond the others stickmen and can create "
+"shockwaves, not worthy of a mage, but thanks to them he is able to defend "
+"himself. Moreover, the use of two blades instead of one, allows him to show "
+"his own speed. At that point he is no longer defined plariak, although he is "
+"no longer able to increase his magic power."
+msgstr ""
+
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/lame_danzanti.cfg:31
+msgid "blades"
+msgstr ""
+
+#. [attack]: type=non elemental
+#: Stickmen_Era/units/stickmen/lame_danzanti.cfg:40
+msgid "wave"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_lucente, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/lucente.cfg:5
+msgid "Shining"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_luminoso, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/luminoso.cfg:5
+msgid "Luminous"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/luminoso.cfg:34
+msgid "pugno sacro"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/luminoso.cfg:43
+msgid "spirito di luce"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_aria, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_aria.cfg:5
+msgid "Mage of air"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_aria, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_aria.cfg:28
+msgid ""
+"The mage of air is granted of great speed thanks to the gifts of the wind, "
+"starting to become ethereal. He can unleash storms using to its advantage "
+"the air inside his own body."
+msgstr ""
+
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/mago_aria.cfg:36
+#: Stickmen_Era/units/stickmen/stregone_aria.cfg:37
+msgid "sharp staff"
+msgstr ""
+
+#. [attack]: type=non elemental
+#: Stickmen_Era/units/stickmen/mago_aria.cfg:45
+#: Stickmen_Era/units/stickmen/stregone_aria.cfg:46
+msgid "tornado"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/mago_aria.cfg:57
+#: Stickmen_Era/units/stickmen/stregone_aria.cfg:58
+msgid "gusts of wind"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_fuoco, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_fuoco.cfg:5
+msgid "Mage of fire"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_fuoco, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_fuoco.cfg:28
+msgid ""
+"The best way to focus in the destruction on the battlefield, is to control "
+"the fire to burn all the enemies that oppose the mage of fire. Wrapped "
+"entirely of fire and armed with his staff is able to evoke flames from the "
+"sky."
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/mago_fuoco.cfg:38
+#: Stickmen_Era/units/stickmen/stregone_fuoco.cfg:39
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=fire
+#: Stickmen_Era/units/stickmen/mago_fuoco.cfg:47
+#: Stickmen_Era/units/stickmen/stregone_fuoco.cfg:48
+msgid "pillar of fire"
+msgstr ""
+
+#. [attack]: type=fire
+#: Stickmen_Era/units/stickmen/mago_fuoco.cfg:59
+#: Stickmen_Era/units/stickmen/spirito_fuoco.cfg:52
+#: Stickmen_Era/units/stickmen/stregone_fuoco.cfg:60
+msgid "blazes"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_ghiaccio, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_ghiaccio.cfg:6
+msgid "Mage of ice"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_ghiaccio, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_ghiaccio.cfg:28
+msgid ""
+"The way of the water is the most difficult to follow because to check it he "
+"must first make it solid, and then turn it into ice. The body of the mage is "
+"completely covered with ice, but it's incredibly ... hot."
+msgstr ""
+
+#. [attack]: type=cold
+#: Stickmen_Era/units/stickmen/stregone_ghiaccio.cfg:67
+#: Stickmen_Era/units/stickmen/mago_ghiaccio.cfg:184
+msgid "ice plate"
+msgstr ""
+
+#. [attack]: type=cold
+#: Stickmen_Era/units/stickmen/stregone_ghiaccio.cfg:79
+#: Stickmen_Era/units/stickmen/mago_ghiaccio.cfg:196
+msgid "squall"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_mago_terra, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/mago_terra.cfg:5
+msgid "Mage of earth"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/stregone_terra.cfg:45
+#: Stickmen_Era/units/stickmen/mago_terra.cfg:146
+msgid "fists"
+msgstr ""
+
+#. [attack]: type=earth
+#: Stickmen_Era/units/stickmen/stregone_terra.cfg:54
+#: Stickmen_Era/units/stickmen/mago_terra.cfg:155
+msgid "earthquake"
+msgstr ""
+
+#. [attack]: type=pierce
+#: Stickmen_Era/units/stickmen/stregone_terra.cfg:66
+#: Stickmen_Era/units/stickmen/mago_terra.cfg:167
+msgid "venomous roots"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_messaggero, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/messaggero.cfg:5
+msgid "Messenger"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_occhio_falco, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/occhio_falco.cfg:5
+msgid "Hawk's eye"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_oracolo, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/oracolo.cfg:5
+msgid "Oracle"
+msgstr ""
+
+#. [attack]: type=wind
+#: Stickmen_Era/units/stickmen/oracolo.cfg:55
+msgid "wings' hit"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_padrone_ombre, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/padrone_ombre.cfg:5
+msgid "Shadows' master"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Stickmen_Era/units/stickmen/padrone_ombre.cfg:37
+#: Stickmen_Era/units/stickmen/servo_ombre.cfg:34
+msgid "ethereal scythe"
+msgstr ""
+
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/padrone_ombre.cfg:49
+#: Stickmen_Era/units/stickmen/servo_ombre.cfg:46
+msgid "summon skeleton"
+msgstr ""
+
+#. [attack]: type=fire
+#: Stickmen_Era/units/stickmen/padrone_ombre.cfg:61
+msgid "summon demon"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_sadico, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/sadico.cfg:5
+msgid "Sadist"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/sadico.cfg:33
+#: Stickmen_Era/units/stickmen/spirito_terra.cfg:49
+msgid "hammer"
+msgstr ""
+
+#. [attack]: type=non elemental
+#: Stickmen_Era/units/stickmen/spietato.cfg:53
+#: Stickmen_Era/units/stickmen/sadico.cfg:54
+msgid "shockwave"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_seguace_ombre, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/seguace_ombre.cfg:5
+msgid "Shadows' follower"
+msgstr ""
+
+#. [attack]: type=blade
+#: Stickmen_Era/units/stickmen/seguace_ombre.cfg:31
+msgid "sacrifice dagger"
+msgstr ""
+
+#. [attack]: type=cold
+#: Stickmen_Era/units/stickmen/seguace_ombre.cfg:40
+msgid "shadow spirit"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_selvaggio, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/selvaggio.cfg:5
+msgid "Savage"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_sensei, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/sensei.cfg:5
+msgid "Sensei"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_sentinella, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/sentinella.cfg:5
+msgid "Sentinel"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_servo_ombre, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/servo_ombre.cfg:5
+msgid "Shadows' servant"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spezza_luce, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/spezza_luce.cfg:5
+msgid "Lightbreaker"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/spezza_luce.cfg:31
+msgid "bow's hit"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spietato, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/spietato.cfg:5
+msgid "Merciless"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/spietato.cfg:32
+msgid "iron mace"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spirito_acqua, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/spirito_acqua.cfg:5
+msgid "Spirit of water"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spirito_acqua, race=STICKMEN_a_stickman
+#. [unit_type]: id=STICKMEN_spirito_terra, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/spirito_acqua.cfg:30
+#: Stickmen_Era/units/stickmen/spirito_terra.cfg:31
+msgid "[DESCRIPTION}"
+msgstr ""
+
+#. [attack]: type=cold
+#: Stickmen_Era/units/stickmen/spirito_acqua.cfg:48
+msgid "trident"
+msgstr ""
+
+#. [attack]: type=impact
+#: Stickmen_Era/units/stickmen/spirito_acqua.cfg:57
+msgid "tsunami"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spirito_aria, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/spirito_aria.cfg:5
+msgid "Spirit of air"
+msgstr ""
+
+#. [attack]: type=non-elemental
+#: Stickmen_Era/units/stickmen/spirito_aria.cfg:46
+msgid "hurricane"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spirito_fuoco, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/spirito_fuoco.cfg:5
+msgid "Spirit of fire"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_spirito_terra, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/spirito_terra.cfg:5
+msgid "Spirit of earth"
+msgstr ""
+
+#. [attack]: type=earth
+#: Stickmen_Era/units/stickmen/spirito_terra.cfg:58
+msgid "boulder"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_stregone_aria, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/stregone_aria.cfg:5
+msgid "Wizard of air"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_stregone_fuoco, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/stregone_fuoco.cfg:5
+msgid "Wizard of fire"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_stregone_ghiaccio, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/stregone_ghiaccio.cfg:6
+msgid "Wizard of ice"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_stregone_terra, race=STICKMEN_a_stickman
+#: Stickmen_Era/units/stickmen/stregone_terra.cfg:5
+msgid "Wizard of earth"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_adolescente_c, race=STICKMEN_stickman2
+#. [unit_type]: id=STICKMEN_adolescente_b, race=STICKMEN_stickman2
+#: Stickmen_Era/units/stickmen/teenager_c.cfg:5
+#: Stickmen_Era/units/stickmen/teenager_b.cfg:5
+msgid "Teenager"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_veterano, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/veterano.cfg:5
+msgid "Veteran"
+msgstr ""
+
+#. [unit_type]: id=STICKMEN_veterano, race=STICKMEN_stickman
+#: Stickmen_Era/units/stickmen/veterano.cfg:26
+msgid "The time comes for a warrior to forget what is being a "
+msgstr ""
