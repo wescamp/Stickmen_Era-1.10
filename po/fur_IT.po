@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-22 15:35+0100\n"
-"PO-Revision-Date: 2012-02-22 15:29+0100\n"
+"POT-Creation-Date: 2012-02-26 17:23+0100\n"
+"PO-Revision-Date: 2012-02-26 17:23+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: fur_IT\n"
@@ -22,7 +22,7 @@ msgid "female^mountain ambush"
 msgstr ""
 
 #. [hides]: id=m_ambush
-#: Stickmen_Era/abilities.cfg:16 Stickmen_Era/abilities.cfg:20
+#: Stickmen_Era/abilities.cfg:13 Stickmen_Era/abilities.cfg:17
 msgid ""
 "Mountain ambush:\n"
 "This unit can hide in hills and mountains, and remain undetected by its "
@@ -39,7 +39,7 @@ msgid "defend only"
 msgstr ""
 
 #. [damage]: id=defend_only
-#: Stickmen_Era/abilities.cfg:36
+#: Stickmen_Era/abilities.cfg:35
 msgid ""
 "Defend only:\n"
 "This weapon will only be available for defense."
@@ -55,7 +55,7 @@ msgid "attack only"
 msgstr ""
 
 #. [damage]: id=attack_only
-#: Stickmen_Era/abilities.cfg:50
+#: Stickmen_Era/abilities.cfg:49
 msgid ""
 "Attack only:\n"
 "This weapon will only be available for attack."
@@ -72,7 +72,7 @@ msgid "female^water affinity"
 msgstr ""
 
 #. [hides]: id=water_affinity
-#: Stickmen_Era/abilities.cfg:70 Stickmen_Era/abilities.cfg:76
+#: Stickmen_Era/abilities.cfg:67 Stickmen_Era/abilities.cfg:73
 msgid ""
 "Water affinity:\n"
 "This unit can hide in water, and remain undetected by its enemies.\n"
